@@ -4,8 +4,8 @@ BÁO CÁO CAPSTONE PROJECT
 - Nhóm: Huỳnh Minh Thuận + Trần Công Toàn
 - Người thực hiện: Huỳnh Minh Thuận
 - Link GitHub: https://github.com/hmtminhthuan/cybersoft-capstone1
-- Link Deploy: https://capstone-project-ten-iota.vercel.app/
-- Ngôn ngữ và công cụ sử dụng: HTML5/ CSS3/ SASS/ Javascript/ Bootstrap...
+- Link Deploy: https://capstone-project-ten-iota.vercel.app
+- Ngôn ngữ và công cụ sử dụng: HTML5/ CSS3/ SCSS/ Javascript/ Bootstrap...
 - Các webpages trong website:
   + Home (trang chủ)
   + About
